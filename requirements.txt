@@ -1,0 +1,7 @@
+easyocr
+anthropic
+pandas
+streamlit
+plotly
+Pillow
+datasets
