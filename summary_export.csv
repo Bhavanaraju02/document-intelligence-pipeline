@@ -1,0 +1,2 @@
+total_documents,valid_count,flagged_count,valid_rate_pct,avg_ocr_confidence,avg_validation_pass_rate_pct,llm_extraction_count,rule_based_extraction_count
+50,0,50,0.0,0.62,40.0,0,50
